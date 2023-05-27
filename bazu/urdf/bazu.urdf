@@ -123,7 +123,7 @@
 </link>
 
 <joint name="joint_3" type="continuous">
-<axis xyz="0 0 1"/>
+<axis xyz="0 1 0"/>
 <parent link="link_2"/>
 <child link="link_3"/>
 <origin rpy="0 0 0" xyz="0.0 0.1 0.35"/>
